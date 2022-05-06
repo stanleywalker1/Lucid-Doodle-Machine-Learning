@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  padding: 30px;
+  background-color: black;
+}
+canvas {
+  display: block;
+  background: black;
+  height: 20px;
+}
+
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
+  padding-left: 10px;
+}
+h3 {
+  color: white;
+  padding-left: 50px;
+/*   color: rgb(196,246,227); */
+}
+
+p {
+  color: white;
+}
